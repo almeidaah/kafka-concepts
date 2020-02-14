@@ -1,0 +1,12 @@
+# Created by Fernando Almeida @almeidajava
+
+* This is just an experimental project using producer and consumers of kafka.
+* In resources folder are many commands of how to use kafka by commandline(kafka default cli)
+
+There are 3 approaches on how to use kafka prod/consumer in this project:
+
+1. Simple producer / consumer
+2. Producer using keys to allocate messages to always-same-partition
+3. Producer/consumer using threads/callbacks
+
+There is also a ConsumerDemoGroups that uses an specific group to read earliest messages.
