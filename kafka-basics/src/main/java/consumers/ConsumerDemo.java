@@ -1,4 +1,4 @@
-package almeida.fernando.kafka.consumers;
+package consumers;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecords;

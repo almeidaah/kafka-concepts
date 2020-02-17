@@ -1,4 +1,4 @@
-package almeida.fernando.kafka.producers;
+package producers;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;

@@ -1,4 +1,4 @@
-package almeida.fernando.kafka.producers;
+package producers;
 
 import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.common.serialization.StringSerializer;
